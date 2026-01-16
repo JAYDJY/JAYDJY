@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🪪 用户身份 (User ID): JAYDJY
+# 🪪 用户身份: JAYDJY
 
 ---
 
-## 🛠️ 我的技术栈 (My Tech Stack)
+## 🛠️ 我的技术栈
 
 <br />
 
@@ -22,7 +22,7 @@
 
 ---
 
-### 🚀 正在进化中... (Evolution in Progress...)
+### 🚀 正在进化中...
 *“代码改变世界，从第一个 Commit 开始”*
 
 </div>
